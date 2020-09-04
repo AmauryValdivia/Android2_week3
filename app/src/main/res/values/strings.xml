@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">week3</string>
+    <string name="text_welcome">Welcome</string>
+    <string name="text_enter">Enter</string>
+</resources>
